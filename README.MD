@@ -5,12 +5,12 @@
 <ul>
   <li>
     <p>
-    Ishan Meher
+      <a href="https://www.linkedin.com/in/ishanmeher/">Ishan Meher</a>
     </p>
   </li>
   <li>
     <p>
-      Add your name here:
+      <a href="">Your Name</a>
     </p>
   </li>
 </ul>
