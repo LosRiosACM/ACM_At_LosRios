@@ -1,4 +1,4 @@
-<h1>Welcome to the ACM at Los Rios's website, formerly ACM LRCCD.</h1>
+<h1>Welcome to the ACM at Los Rios's website, formerly the LRCCD ACM Chapter.</h1>
 <p>This is the main homepage for the chapter at Los Rios. It serves to host information about the chapter and provide students with resources as well as to highlight Los Rios student achivement. ACM at Los Rios remains committed to ensuring an inclusive and active community for all BIPOC, LGBTQIA+, indigenous, first-gen, and low-income students which Los Rios serves.</p>
 <h2>Land Acknowledgement</h2>
 <p> In the spirit of community and social justice, we acknowledge the land on which our four colleges reside as the traditional homelands of the Nisenan, Maidu, and Miwok tribal nations. These sovereign people have been the caretakers of the health of the rivers, the wildlife, the plant life, and the overall eco-social balance in the greater Sacramento region since time immemorial.
