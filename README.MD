@@ -8,7 +8,7 @@ Despite centuries of genocide and occupation, the Nisenan, Maidu, and Miwok cont
 
 Built using HTML, CSS, Javascript, Anime.js and Bootrap.
 
-<h2>For help contact:</h2>
+<h2>For help contact our web team!</h2>
 <ul>
   <li>
     <p>
