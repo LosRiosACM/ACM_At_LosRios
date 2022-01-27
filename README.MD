@@ -12,7 +12,12 @@ This site is created using HTML, CSS, Javascript, Anime.js and Bootrap.
   </li>
   <li>
     <p>
-      <a href="">Your Name</a>
+      <a href="https://www.linkedin.com/in/physicist86/">Alexander Le</a>
+    </p>
+  </li>
+   <li>
+    <p>
+      <a href="https://www.linkedin.com/in/esther588/">Ether Cheng</a>
     </p>
   </li>
 </ul>
