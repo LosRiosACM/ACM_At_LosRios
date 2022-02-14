@@ -26,3 +26,21 @@ Built using HTML, CSS, Javascript, Anime.js and Bootrap.
     </p>
   </li>
 </ul>
+
+<h2>Resources</h2>
+<ul>
+  <li>
+    <p>
+      <a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc">Git and Github Tutorial</a>
+    </p>
+  </li>
+  <li>
+    <p>
+      <a href="https://www.freecodecamp.org/learn/responsive-web-design/">HTML/CSS Tutorial</a>
+    </p>
+  </li>
+   <li>
+    <p>
+      <a href="https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-1">Javascript with the Browser</a>
+    </p>
+  </li>
